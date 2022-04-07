@@ -1,0 +1,6 @@
+$(AS_PROJECT_PATH)/Logical/Libraries/AsBrStr/AsBrStr.fun
+$(AS_PROJECT_PATH)/Logical/Global.var
+$(AS_PROJECT_PATH)/Logical/Libraries/Acp10sdc/acp10sdc.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/Acp10sdc/acp10sdc.var
+$(AS_PROJECT_PATH)/Logical/Libraries/Acp10man/Acp10man.typ
+$(AS_PROJECT_PATH)/Logical/ncsdcctrl/ncsdcctrl.var

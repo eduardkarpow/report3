@@ -1,0 +1,6 @@
+{
+  global:
+    drive;
+  local:
+    *;
+ };

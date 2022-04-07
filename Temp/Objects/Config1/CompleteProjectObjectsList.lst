@@ -1,0 +1,670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<Objects>
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="132920806020560914" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="132920764995220745"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="132920807299705084"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="132920776294705078" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="132920765001937648" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="132920765001781427"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="132920765001781427"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="132920765001781427"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="132920765005374342" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="132920765005374342"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="132920765005374342"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="132920765005374342"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="132920765008811315" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="132920765008654818"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="132920765008654818"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="132920765008654818"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="132920765012091792" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="132920765011935522"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="132920765011935522"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="132920765011935522"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Acp10man\Binary.lby"
+    LogicalPath="Libraries.Acp10man"
+    Type="Library"
+    LastWriteTime="132920768166574835" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Acp10man\Acp10man.typ"
+    LogicalPath="Libraries.Acp10man.Acp10man.typ"
+    Type="File"
+    LastWriteTime="132920768166574835"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Acp10par\Binary.lby"
+    LogicalPath="Libraries.Acp10par"
+    Type="Library"
+    LastWriteTime="132920768167512102" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Acp10par\Acp10par.var"
+    LogicalPath="Libraries.Acp10par.Acp10par.var"
+    Type="File"
+    LastWriteTime="132920768167355950"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\NcGlobal\Binary.lby"
+    LogicalPath="Libraries.NcGlobal"
+    Type="Library"
+    LastWriteTime="132920768167824245" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\NcGlobal\NcGlobal.fun"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.fun"
+    Type="File"
+    LastWriteTime="132920768167668334"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\NcGlobal\NcGlobal.typ"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.typ"
+    Type="File"
+    LastWriteTime="132920768167824245"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\NcGlobal\NcGlobal.var"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.var"
+    Type="File"
+    LastWriteTime="132920768167824245"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Acp10sdc\binary.lby"
+    LogicalPath="Libraries.Acp10sdc"
+    Type="Library"
+    LastWriteTime="132920768287976845" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Acp10sdc\acp10sdc.var"
+    LogicalPath="Libraries.Acp10sdc.acp10sdc.var"
+    Type="File"
+    LastWriteTime="132920768287820881"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Acp10sdc\acp10sdc.typ"
+    LogicalPath="Libraries.Acp10sdc.acp10sdc.typ"
+    Type="File"
+    LastWriteTime="132920768287976845"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Acp10_MC\binary.lby"
+    LogicalPath="Libraries.Acp10_MC"
+    Type="Library"
+    LastWriteTime="132920768296099944" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Acp10_MC\acp10_mc.fun"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.fun"
+    Type="File"
+    LastWriteTime="132920768295944021"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Acp10_MC\acp10_mc.typ"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.typ"
+    Type="File"
+    LastWriteTime="132920768295944021"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Acp10_MC\acp10_mc.var"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.var"
+    Type="File"
+    LastWriteTime="132920768296099944"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\brsystem\binary.lby"
+    LogicalPath="Libraries.brsystem"
+    Type="Library"
+    LastWriteTime="132920768296881016" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\brsystem\brsystem.fun"
+    LogicalPath="Libraries.brsystem.brsystem.fun"
+    Type="File"
+    LastWriteTime="132920768296724803"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\brsystem\brsystem.typ"
+    LogicalPath="Libraries.brsystem.brsystem.typ"
+    Type="File"
+    LastWriteTime="132920768296724803"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\brsystem\brsystem.var"
+    LogicalPath="Libraries.brsystem.brsystem.var"
+    Type="File"
+    LastWriteTime="132920768296724803"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\sys_lib\binary.lby"
+    LogicalPath="Libraries.sys_lib"
+    Type="Library"
+    LastWriteTime="132920768297662081" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\sys_lib\sys_lib.fun"
+    LogicalPath="Libraries.sys_lib.sys_lib.fun"
+    Type="File"
+    LastWriteTime="132920768297349659"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\sys_lib\sys_lib.typ"
+    LogicalPath="Libraries.sys_lib.sys_lib.typ"
+    Type="File"
+    LastWriteTime="132920768297505868"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\sys_lib\sys_lib.var"
+    LogicalPath="Libraries.sys_lib.sys_lib.var"
+    Type="File"
+    LastWriteTime="132920768297505868"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\AsBrStr\binary.lby"
+    LogicalPath="Libraries.AsBrStr"
+    Type="Library"
+    LastWriteTime="132920768312346146" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\AsBrStr\AsBrStr.fun"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.fun"
+    Type="File"
+    LastWriteTime="132920768312190204"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\AsBrStr\AsBrStr.typ"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.typ"
+    Type="File"
+    LastWriteTime="132920768312190204"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\AsBrStr\AsBrStr.var"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.var"
+    Type="File"
+    LastWriteTime="132920768312346146"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Library\ANSIC.lby"
+    LogicalPath="Libraries.Library"
+    Type="Library"
+    LastWriteTime="132920778325358566" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Library\Types.typ"
+    LogicalPath="Libraries.Library.Types.typ"
+    Type="File"
+    LastWriteTime="132920776294549062"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Library\Constants.var"
+    LogicalPath="Libraries.Library.Constants.var"
+    Type="File"
+    LastWriteTime="132920792003608106"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Library\Library.fun"
+    LogicalPath="Libraries.Library.Library.fun"
+    Type="File"
+    LastWriteTime="132920792005089079"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Libraries\Library\drive.c"
+    LogicalPath="Libraries.Library.drive.c"
+    Type="File"
+    LastWriteTime="132920796302623343"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\ncsdcctrl\IEC.prg"
+    LogicalPath="ncsdcctrl"
+    Type="Program"
+    LastWriteTime="132920768148890577" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\ncsdcctrl\ncsdcctrlCyclic.st"
+    LogicalPath="ncsdcctrl.ncsdcctrlCyclic.st"
+    Type="File"
+    LastWriteTime="132920770649615310"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\ncsdcctrl\ncsdcctrlInit.st"
+    LogicalPath="ncsdcctrl.ncsdcctrlInit.st"
+    Type="File"
+    LastWriteTime="132920770649615310"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\ncsdcctrl\ncsdcctrl.typ"
+    LogicalPath="ncsdcctrl.ncsdcctrl.typ"
+    Type="File"
+    LastWriteTime="132920768153264277"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\ncsdcctrl\ncsdcctrl.var"
+    LogicalPath="ncsdcctrl.ncsdcctrl.var"
+    Type="File"
+    LastWriteTime="132920768376269157"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\acp10etxen\Ett.dob"
+    LogicalPath="acp10etxen"
+    Type="DataObject"
+    LastWriteTime="132920768280322679" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\acp10etxen\acp10etxen.ett"
+    LogicalPath="acp10etxen.acp10etxen.ett"
+    Type="File"
+    LastWriteTime="132920768280947248"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis01obj\Package.pkg"
+    LogicalPath="gAxis01obj"
+    Type="Package"
+    LastWriteTime="132920768318438034" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis01obj\gAxis01a\Apt.dob"
+    LogicalPath="gAxis01obj.gAxis01a"
+    Type="DataObject"
+    LastWriteTime="132920768316251482" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis01obj\gAxis01a\gAxis01a.apt"
+    LogicalPath="gAxis01obj.gAxis01a.gAxis01a.apt"
+    Type="File"
+    LastWriteTime="132920768316550659"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis01obj\gAxis01i\Ax.dob"
+    LogicalPath="gAxis01obj.gAxis01i"
+    Type="DataObject"
+    LastWriteTime="132920768317099855" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis01obj\gAxis01i\gAxis01i.ax"
+    LogicalPath="gAxis01obj.gAxis01i.gAxis01i.ax"
+    Type="File"
+    LastWriteTime="132920768318311159"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis02obj\Package.pkg"
+    LogicalPath="gAxis02obj"
+    Type="Package"
+    LastWriteTime="132920768371758719" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis02obj\gAxis02a\Apt.dob"
+    LogicalPath="gAxis02obj.gAxis02a"
+    Type="DataObject"
+    LastWriteTime="132920768369583310" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis02obj\gAxis02a\gAxis02a.apt"
+    LogicalPath="gAxis02obj.gAxis02a.gAxis02a.apt"
+    Type="File"
+    LastWriteTime="132920768369883925"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis02obj\gAxis02i\Ax.dob"
+    LogicalPath="gAxis02obj.gAxis02i"
+    Type="DataObject"
+    LastWriteTime="132920768370413200" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis02obj\gAxis02i\gAxis02i.ax"
+    LogicalPath="gAxis02obj.gAxis02i.gAxis02i.ax"
+    Type="File"
+    LastWriteTime="132920768371539658"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis03obj\Package.pkg"
+    LogicalPath="gAxis03obj"
+    Type="Package"
+    LastWriteTime="132920768705655009" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis03obj\gAxis03a\Apt.dob"
+    LogicalPath="gAxis03obj.gAxis03a"
+    Type="DataObject"
+    LastWriteTime="132920768703555626" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis03obj\gAxis03a\gAxis03a.apt"
+    LogicalPath="gAxis03obj.gAxis03a.gAxis03a.apt"
+    Type="File"
+    LastWriteTime="132920768703779018"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis03obj\gAxis03i\Ax.dob"
+    LogicalPath="gAxis03obj.gAxis03i"
+    Type="DataObject"
+    LastWriteTime="132920768704424218" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis03obj\gAxis03i\gAxis03i.ax"
+    LogicalPath="gAxis03obj.gAxis03i.gAxis03i.ax"
+    Type="File"
+    LastWriteTime="132920768705480276"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis04obj\Package.pkg"
+    LogicalPath="gAxis04obj"
+    Type="Package"
+    LastWriteTime="132920770653684306" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis04obj\gAxis04a\Apt.dob"
+    LogicalPath="gAxis04obj.gAxis04a"
+    Type="DataObject"
+    LastWriteTime="132920770651561841" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis04obj\gAxis04a\gAxis04a.apt"
+    LogicalPath="gAxis04obj.gAxis04a.gAxis04a.apt"
+    Type="File"
+    LastWriteTime="132920770651777104"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis04obj\gAxis04i\Ax.dob"
+    LogicalPath="gAxis04obj.gAxis04i"
+    Type="DataObject"
+    LastWriteTime="132920770652346334" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\gAxis04obj\gAxis04i\gAxis04i.ax"
+    LogicalPath="gAxis04obj.gAxis04i.gAxis04i.ax"
+    Type="File"
+    LastWriteTime="132920770653484188"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Program\ANSIC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="132920788374191488" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Program\Main.c"
+    LogicalPath="Program.Main.c"
+    Type="File"
+    LastWriteTime="132920808111509391"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="132920788374191488"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="132920792004426250"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Visu\Vc.dob"
+    LogicalPath="Visu"
+    Type="DataObject"
+    LastWriteTime="132920806020092294" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Logical\Visu\VCObject.vc"
+    LogicalPath="Visu.VCObject.vc"
+    Type="File"
+    LastWriteTime="132920806019936058"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="132920765038050492" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="132920806029622930"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="132920772000762237"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\Cpu.pkg"
+    LogicalPath="Config1.4PP065_0571_P74"
+    Type="Cpu"
+    LastWriteTime="132920793350083670" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\Cpu.sw"
+    LogicalPath="Config1.4PP065_0571_P74.Cpu.sw"
+    Type="File"
+    LastWriteTime="132920806026184597"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\Cpu.per"
+    LogicalPath="Config1.4PP065_0571_P74.Cpu.per"
+    Type="File"
+    LastWriteTime="132920765014278513"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\IoMap.iom"
+    LogicalPath="Config1.4PP065_0571_P74.IoMap.iom"
+    Type="File"
+    LastWriteTime="132920792868152420"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\PvMap.vvm"
+    LogicalPath="Config1.4PP065_0571_P74.PvMap.vvm"
+    Type="File"
+    LastWriteTime="132920765014590981"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\Connectivity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Connectivity"
+    Type="Package"
+    LastWriteTime="132920765014903645" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="132920765014903645" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\TextSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.TextSystem"
+    Type="Package"
+    LastWriteTime="132920765015059869" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\UnitSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.UnitSystem"
+    Type="Package"
+    LastWriteTime="132920765015372276" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="132920765016621988" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="132920765015528217" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="132920765015528217"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="132920765015528217"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="132920765016309286" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="132920765015997140" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="132920765015840643" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="132920765015840643" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="132920765016153069" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="132920765016153069" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="132920765016153069" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="132920765016309286" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="132920765016465507" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\mappControl\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappControl"
+    Type="Package"
+    LastWriteTime="132920765016621988" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\mappMotion\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappMotion"
+    Type="Package"
+    LastWriteTime="132920765016778216" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\mappServices\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappServices"
+    Type="Package"
+    LastWriteTime="132920765016934425" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\mappView\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappView"
+    Type="Package"
+    LastWriteTime="132920765017090638" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\mappCockpit\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappCockpit"
+    Type="Package"
+    LastWriteTime="132920765017090638" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\Motion\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Motion"
+    Type="Package"
+    LastWriteTime="132920768171062678" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\Motion\Acp10map.ncm"
+    LogicalPath="Config1.4PP065_0571_P74.Motion.Acp10map.ncm"
+    Type="File"
+    LastWriteTime="132920770650259404"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\Motion\Acp10cfg.ncc"
+    LogicalPath="Config1.4PP065_0571_P74.Motion.Acp10cfg.ncc"
+    Type="File"
+    LastWriteTime="132920768280115485"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\4PP065_0571_P74\Motion\Acp10sys.br"
+    LogicalPath="Config1.4PP065_0571_P74.Motion.Acp10sys.br"
+    Type="File"
+    LastWriteTime="132920768171999975"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Karpov\prac3\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="132932851320104712"
+    Private="false" />
+</Objects>
